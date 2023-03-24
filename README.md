@@ -16,8 +16,8 @@
     Exemplo de formatacao de codigo html
 <coe>
 ```
-1. [x] Primiero item
-2. [x] Segundo item
+1. [x] Primiero *item*
+2. [x] Segundo **item**
 3. [ ] Terceiro Item
 
 - [x] Primiero item
