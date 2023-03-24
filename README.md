@@ -4,7 +4,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
-![Sisgel Sistemas]{https://cdnsisgel.s3-sa-east-1.amazonaws.com/logo-sisgel-novo-site1.png)
+![Sisgel Sistemas](https://cdnsisgel.s3-sa-east-1.amazonaws.com/logo-sisgel-novo-site1.png)
 
 # Este é um header `<h1>`
 ## Este é um header `<h2>`
